@@ -1,144 +1,185 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojons/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Wasim Akram R
+<h1 align="center">Hi 👋, I'm Wasim Akram R</h1>
+<h3 align="center">Junior Full Stack Developer | Software Engineer | Chennai, India</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/Wasim030?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/Wasim030)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim) <!-- Replace with your actual LinkedIn URL -->
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimmsd030@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app) <!-- Update with your portfolio -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+React+%2B+Node.js;Healthcare+%26+AI+Driven+App+Builder;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 About Me
-
-I'm a **Junior Full Stack Developer** based in **Chennai, India**, passionate about building scalable web applications and healthcare tech solutions. With hands-on experience in the **MERN stack**, **Kotlin (Jetpack Compose)** , and **AI-integrated platforms**, I love turning complex problems into elegant, user-friendly digital products.
-
-- 🔭 **Currently working at:** Ayur.Ai Private Limited as a Full Stack Developer Intern
-- 🌱 **Always learning:** Modern full-stack architectures, AI-assisted development, and system design
-- 💬 **Ask me about:** MERN stack, JWT authentication, REST APIs, or breaking into full-stack development
-- 📫 **Reach me:** [wasimmsd030@gmail.com](mailto:wasimmsd030@gmail.com) | +91 9597925803
-- ⚡ **Fun fact:** I combine healthcare + tech — building kiosks that sync with BLE devices like smart rings!
-- 🎯 **Goal:** To contribute to collaborative engineering teams and build impactful digital products
+<p align="center">
+  <a href="mailto:wasimmsd030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Wasim030"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/wasim-akram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white&style=flat-square)
+```yaml
+name: Wasim Akram R
+location: Chennai, India
+role: Junior Full Stack Developer | Software Engineer
+experience: Full Stack Intern @ Ayur.Ai Private Limited (Jan 2026 – Present)
+education: B.E. Computer Science — Priyadarshini Engineering College (CGPA: 8.0/10)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square)
-![REST APIs](https://img.shields.io/badge/-REST_API-FF6C37?logo=postman&logoColor=white&style=flat-square)
+focus_areas:
+  - Full Stack Web Development (React + Node + MongoDB)
+  - Healthcare & AI-Driven Applications
+  - Android Development (Kotlin + Jetpack Compose)
+  - REST API Design & JWT Authentication
+  - QA Automation Testing (Selenium + TestNG)
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazons3&logoColor=white&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+currently_working_on:
+  - AI Well Smart Healthcare Kiosk (Kotlin + MVVM + BLE)
+  - Doctor Dashboard Full Stack App
+  - Backend API optimization & deployment
 
-### Mobile & Testing
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white&style=flat-square)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat-square)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=flat-square)
-
-### Tools & AI
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white&style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?logo=githubcopilot&logoColor=white&style=flat-square)
+fun_fact: "I build apps that combine AI, healthcare, and modern web tech 💡"
+```
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **MediConnect** | AI-powered doctor appointment portal with role-based dashboards, Stripe payment integration, and secure JWT auth | React, Node.js, Express, MongoDB, JWT, Stripe, Tailwind CSS |
-| **ShopFlow** | Full-stack e-commerce platform with product catalog, cart management, order tracking, and admin dashboard | React, Redux Toolkit, Node.js, Express, MongoDB, Cloudinary |
-| **AiWell Kiosk** | Smart healthcare kiosk app for patient wellness tracking with BLE integration (smart rings/watches) | Kotlin, Jetpack Compose, Node.js, MongoDB, BLE |
-| **Cyber Security Tools** | Keyloggers and security research tools | Python |
-| **3D Portfolio** | Immersive portfolio website with 3D animations | TypeScript, Three.js |
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🚀 Deployment & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🤖 AI Tools I Use Daily
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 💼 Work Experience
 
-### **Ayur.Ai Private Limited** — *Full Stack Developer Intern*
-📍 Chennai, India | 📅 Jan 2026 – Present
+### 🏥 Ayur.Ai Private Limited — Full Stack Developer Intern
+**Jan 2026 – Present | Chennai, India**
 
-- Building end-to-end healthcare web apps with AI-driven wellness solutions
-- Developing RESTful APIs and responsive frontends for patient management
-- Creating smart healthcare kiosk apps using Kotlin, Jetpack Compose, MVVM
-- Integrating BCA machines, smart rings, and watches via BLE for real-time health data sync
-
-### **QSpiders** — *Full Stack & Software Testing Course*
-📍 Chennai, India | 📅 Mar 2025 – Dec 2025
-
-- Manual & Automation Testing, Core Java, SQL, Selenium WebDriver, TestNG
-- Designed 100+ test cases for e-commerce applications
-- Automated login, search, and checkout flows using Page Object Model (POM)
+- 🔧 Built **AI Well Smart Healthcare Kiosk** app using Kotlin, Jetpack Compose & MVVM
+- 🩺 Developed **Doctor Dashboard** (full-stack: frontend + backend) with responsive UI
+- 🔗 Integrated **BLE** for BCA machines, smart rings, and watches for real-time health data
+- 🛠️ Designed RESTful APIs for patient management, wellness tracking & appointment workflows
+- ✅ Conducted manual & automation testing for AI Well App ensuring quality & reliability
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🏥 MediConnect — AI-Powered Doctor Appointment Portal
+> React.js · Node.js · Express.js · MongoDB · JWT · Stripe · Tailwind CSS
+
+- Full-stack healthcare platform with appointment booking & role-based dashboards (Patient / Doctor / Admin)
+- Stripe payment gateway integration with webhook-based confirmation
+- JWT + bcrypt authentication with protected routes & RBAC
+- Deployed on **Vercel** (frontend) + **Render** (backend)
+
+---
+
+### 🛍️ ShopFlow — Full Stack E-Commerce Platform
+> React.js · Redux Toolkit · Node.js · Express · MongoDB · Cloudinary · JWT
+
+- End-to-end e-commerce with dynamic catalog, cart, order tracking & admin dashboard
+- **18+ REST API endpoints** covering products, auth, orders & inventory
+- Cloudinary integration for multi-image uploads
+- Custom Express.js middleware for RBAC (admin & customer)
+
+---
+
+### 📱 AiWell Kiosk — Smart Healthcare Kiosk
+> Kotlin · Jetpack Compose · Node.js · MongoDB · REST APIs · BLE
+
+- Smart healthcare kiosk for patient wellness tracking & digital healthcare services
+- MVVM architecture with reusable Jetpack Compose UI components
+- BLE integration for BCA machines, smart rings & wearables
+- Real-time health data synchronization with secure backend
+
+---
+
+### 🔐 Cyber Security Tools
+> Python
+
+- Keyloggers & security utilities for ethical hacking & learning
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wasim030&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim030&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wasim030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wasim030&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wasim030&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
 </p>
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| B.E. Computer Science | Priyadarshini Engineering College | 2021–2025 | CGPA: 8.0/10 |
+| MPC + Computer Science | Islamiah Boys Higher Secondary School | 2019–2021 | Top scores |
 
 ---
 
 ## 📜 Certifications
 
-- ✅ React - The Complete Guide (Hooks, Router, Redux) – Simplilearn
-- ✅ Node.js Developer Course – Eduprep
-- ✅ MongoDB Basics – Simplilearn
-- ✅ Java Programming – Prodigy Infotech
-- ✅ Full Stack Web Development – Eduprep
-- ✅ Advanced QA Automation Testing – QSpiders
+- ⚛️ **React — The Complete Guide** (Hooks, Router, Redux) — Simplilearn
+- 🟢 **Node.js Developer Course** — Eduprep
+- 🍃 **MongoDB Basics** — Simplilearn
+- ☕ **Java Programming** — Prodigy Infotech
+- 🌐 **Full Stack Web Development** — Eduprep
+- 🧪 **Advanced QA Automation Testing** — QSpiders
 
 ---
 
 ## 🌐 Languages
 
-| Language | Proficiency |
-|----------|-------------|
-| English | Professional Working Proficiency |
-| Tamil | Native |
-| Hindi | Professional Working Proficiency |
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="mailto:wasimmsd030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/wasim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Wasim030"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square)
+![Tamil](https://img.shields.io/badge/Tamil-Native-green?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Professional-orange?style=flat-square)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wasim030&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wasim030.Wasim030" alt="visitors"/>
 </p>
 
----
-
-⭐️ *"Building scalable digital products, one commit at a time."* — Wasim Akram R
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+</p>
