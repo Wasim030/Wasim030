@@ -224,24 +224,7 @@ gantt
 
 </div>
 
-<details>
-<summary>⚙️ Click to enable the dark snake animation — snake.yml</summary>
 
-**Step 1** — In your `Wasim030` repo, create this file: `.github/workflows/snake.yml`
-
-**Step 2** — Paste the content from the downloaded `snake.yml` file
-
-**Step 3** — Go to your repo → **Settings → Actions → General** → set to **"Allow all actions"** → Save
-
-**Step 4** — Go to **Actions tab** → click **"Generate Dark Snake Animation"** → **Run workflow**
-
-**Step 5** — Wait ~1 min → the dark SVG appears on the `output` branch → your profile shows the animation!
-
-> The workflow runs automatically every day at midnight to keep it updated.
-
-</details>
-
----
 
 ## 💼 Experience Timeline
 
