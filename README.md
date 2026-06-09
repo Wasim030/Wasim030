@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimmsd030@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim030)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasim030)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Wasim030/3D-portfolio-with-animation)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fwasim-portfolio-eta.vercel.app%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnWUSjW14e1G0RDfoItZXj7bjqnYxeI6Qdqh2OMXavfW3QG9CKN1xPQ9e8aWo_aem_5X_YnXaYOpJsGWfmFfFquQ&e=AUB5mg1x2mZDPoTmRN-4wbvI5SL2BwbYqZccf4a3g8pwbvqxfo9J30xLuMHBw9HOOfradsm6H8PoBp4N7z4X0MHc0yvyO51EF3Z5Aai42srF59TyslSHXdLFP-4-xOf1N_gx47lySbLGNQdRSMYvWEY)
 
 <br/>
 
