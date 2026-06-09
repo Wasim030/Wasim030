@@ -233,23 +233,7 @@ gantt
 </div>
 
 ---
-
-## 📜 Certifications
-
-<div align="center">
-
-| 🏅 Certificate | 🏛️ Platform |
-|---|---|
-| React — Complete Guide (Hooks, Router, Redux) | Simplilearn |
-| Node.js Developer Course | Eduprep |
-| MongoDB Basics | Simplilearn |
-| Java Programming | Prodigy Infotech |
-| Full Stack Web Development | Eduprep |
-| Advanced QA Automation Testing | QSpiders |
-
-</div>
-
----
+<div align="center"><!-- Modern Card Design --><table align="center"> <tr> <td align="center" width="250"> <img src="https://img.shields.io/badge/📘-React_Complete_Guide-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <br/> <sub>Simplilearn</sub> </td> <td align="center" width="250"> <img src="https://img.shields.io/badge/🟢-Node.js_Developer_Course-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <br/> <sub>Eduprep</sub> </td> <td align="center" width="250"> <img src="https://img.shields.io/badge/🍃-MongoDB_Basics-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <br/> <sub>Simplilearn</sub> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/☕-Java_Programming-007396?style=for-the-badge&logo=java&logoColor=white"/> <br/> <sub>Prodigy Infotech</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/🌐-Full_Stack_Web_Development-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <br/> <sub>Eduprep</sub> </td> <td align="center"> <img src="https://img.shields.io/badge/🧪-Advanced_QA_Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <br/> <sub>QSpiders</sub> </td> </tr> </table></div>
 
 ## 📬 Contact Me
 
