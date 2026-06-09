@@ -1,127 +1,280 @@
 <div align="center">
-  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Wasim Akram R
 
-### *Junior Full Stack Developer | Software Engineer | Healthcare Tech Enthusiast*
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Wasim%20Akram%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9AF4&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;MERN+%7C+Kotlin+%7C+TypeScript;Healthcare+%2B+AI+Enthusiast;3D+Animations+%26+Creative+Code" alt="Typing SVG" />
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Wasim+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+AI-Driven+Healthcare+Apps+%F0%9F%8F%A5;Kotlin+%7C+Jetpack+Compose+%7C+MVVM+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<br/>
+
+<!-- Social badges -->
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimmsd030@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-akram)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasim030)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Wasim030)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wasim030&label=Profile+Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/Wasim030?label=Followers&style=social)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
+<!-- About section with sidebar layout -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🔭 Currently: Full Stack Developer Intern @ Ayur.Ai       ║
-║   🌱 Learning: Advanced System Design & Cloud Architecture  ║
-║   💬 Expertise: MERN Stack, JWT Auth, REST APIs, BLE        ║
-║   📫 Contact: wasimmsd030@gmail.com | +91 9597925803        ║
-║   ⚡ Fun Fact: I build kiosks that talk to smart rings!     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Arsenal
+### 🧑‍💻 About Me
+
+```typescript
+const wasim = {
+  name: "Wasim Akram R",
+  location: "Chennai, India 📍",
+  role: "Junior Full Stack Developer",
+  company: "Ayur.Ai Private Limited",
+  education: "B.E. CSE @ Priyadarshini Engineering College",
+  cgpa: "8.0 / 10 🎓",
+
+  currentlyBuilding: [
+    "AI Well Smart Healthcare Kiosk",
+    "Doctor Dashboard (Full Stack)",
+  ],
+
+  askMeAbout: [
+    "React.js", "Node.js", "Express",
+    "MongoDB", "Kotlin", "REST APIs",
+    "JWT Auth", "Stripe Integration"
+  ],
+
+  aiToolsIUse: [
+    "ChatGPT", "GitHub Copilot",
+    "Claude AI", "Gemini AI", "Cursor AI"
+  ],
+
+  funFact: "I build apps where AI meets Healthcare 🏥🤖"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,redux" />
-⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,kotlin" />
-🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,vercel,netlify" />
-🔧 Tools & AI
-<img src="https://skillicons.dev/icons?i=git,postman,vscode,androidstudio,figma" />
-🤖 AI-Powered Development
-https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white
-https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
-https://img.shields.io/badge/Claude_AI-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Analytics
+
+---
+
+## 🚀 Featured Projects
+
 <div align="center">
-📊 Stats	🏆 Streak	📈 Top Languages
-https://github-readme-stats.vercel.app/api?username=Wasim030&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AF4&icon_color=2E9AF4	https://github-readme-streak-stats.herokuapp.com/?user=Wasim030&theme=radical&hide_border=true&background=0D1117&stroke=2E9AF4&ring=2E9AF4&fire=2E9AF4&currStreakNum=FFFFFF	https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim030&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AF4
-</div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Wasim030&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="30" height="30" /> Featured Projects
-<div align="center">
-🩺 MediConnect	🛍️ ShopFlow	📱 AiWell Kiosk
-AI Doctor Appointment Portal	Full Stack E-Commerce	Smart Healthcare Kiosk
-React Node.js MongoDB	React Redux Cloudinary	Kotlin Jetpack Compose BLE
-JWT Auth + Stripe + RBAC	18+ REST APIs + Admin Dashboard	Smart Rings + BCA Machine Sync
-🔗 View Repo	🔗 View Repo	🔗 View Repo
-</div><div align="center">
-🔐 Cyber Security	🎨 3D Portfolio	🏥 Medicare
-Keyloggers & Security Tools	Immersive 3D Animations	Healthcare Management
-Python	TypeScript Three.js	JavaScript
-Ethical Hacking Research	Interactive Portfolio	Patient Management
-🔗 View Repo	🔗 View Repo	🔗 View Repo
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 MediConnect
+> **AI-Powered Doctor Appointment Portal**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+- 🔐 JWT + bcrypt auth with RBAC
+- 💳 Stripe payment gateway + webhooks
+- 👨‍⚕️ Role dashboards: Patient / Doctor / Admin
+- 🚀 Deployed on Vercel + Render
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Wasim030/Medicare-project)
+
+</td>
+<td width="50%">
+
+### 🛍️ ShopFlow
+> **Full Stack E-Commerce Platform**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+
+- 🛒 Dynamic catalog, cart & order tracking
+- 🔑 18+ REST API endpoints
+- 🖼️ Cloudinary multi-image uploads
+- 🛡️ Custom Express.js RBAC middleware
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Wasim030/E-commerce-)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 AiWell Kiosk
+> **Smart Healthcare Kiosk App**
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack](https://img.shields.io/badge/-Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+- 📡 BLE integration: BCA machines, smart rings
+- 🏗️ MVVM architecture + Jetpack Compose UI
+- 🔄 Real-time health data synchronization
+- 🩺 Patient wellness & appointment workflows
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Wasim030/Express-app-)
+
+</td>
+<td width="50%">
+
+### 🔐 Cyber Security Tools
+> **Ethical Hacking & Security Utilities**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- 🕵️ Keylogger implementations
+- 🛡️ Security research tools
+- 🔍 Network analysis utilities
+- 📚 Educational security demos
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Wasim030/Cyber_Security)
+
+</td>
+</tr>
+</table>
 </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Office%20Worker.png" alt="Office" width="30" height="30" /> Work Experience
-🏢 Ayur.Ai Private Limited — Full Stack Developer Intern
-*Jan 2026 - Present | Chennai, India*
 
-🚀 Building end-to-end healthcare web apps with AI-driven wellness solutions
+---
 
-📱 Developing smart healthcare kiosk apps using Kotlin, Jetpack Compose, MVVM
+## 📊 GitHub Analytics
 
-🔗 Integrating BCA machines, smart rings, and watches via BLE for real-time health data
-
-🎨 Creating responsive frontends and RESTful APIs for patient management
-
-📚 QSpiders — Full Stack & Software Testing Course
-*Mar 2025 - Dec 2025 | Chennai, India*
-
-✅ Manual & Automation Testing, Core Java, SQL, Selenium WebDriver
-
-📝 Designed 100+ test cases for e-commerce applications
-
-🤖 Automated login, search, and checkout flows using Page Object Model (POM)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Diploma.png" alt="Diploma" width="30" height="30" /> Certifications
 <div align="center">
-Certification	Issuer
-React - The Complete Guide	Simplilearn
-Node.js Developer Course	Eduprep
-MongoDB Basics	Simplilearn
-Java Programming	Prodigy Infotech
-Full Stack Web Development	Eduprep
-Advanced QA Automation Testing	QSpiders
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wasim030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /> Let's Connect
+
 <div align="center">
-https://img.shields.io/badge/wasimmsd030@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wasim030&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasim030&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+```
+Jan 2026 ──────────────────────────────── Present
+    │
+    ├── 🏥  Ayur.Ai Private Limited  (Full Stack Developer Intern)
+    │       • Built AI Well Smart Healthcare Kiosk (Kotlin + MVVM + BLE)
+    │       • Developed Doctor Dashboard (Full Stack)
+    │       • Integrated BCA machines, smart rings via BLE
+    │       • Manual & automation testing for AI Well App
+    │
+Mar 2025 ─────────────────────────── Dec 2025
+    │
+    └── 🎓  QSpiders  (Full Stack & Software Testing)
+            • Core Java, Selenium WebDriver, TestNG
+            • 100+ test cases for e-commerce modules
+            • Page Object Model (POM) automation
+```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wasim030&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certificate | 🏛️ Platform |
+|---|---|
+| React — Complete Guide (Hooks, Router, Redux) | Simplilearn |
+| Node.js Developer Course | Eduprep |
+| MongoDB Basics | Simplilearn |
+| Java Programming | Prodigy Infotech |
+| Full Stack Web Development | Eduprep |
+| Advanced QA Automation Testing | QSpiders |
 
 </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Chat%20Bubble.png" alt="Chat" width="30" height="30" /> Quote of the Day
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /></div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=Wasim030&label=Profile%20Views&color=2E9AF4&style=for-the-badge" alt="Profile Views" />
-⭐ "Building scalable digital products, one commit at a time." ⭐
-— Wasim Akram R
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+> **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your repo — ask Claude to generate it for you! ↗
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![English](https://img.shields.io/badge/English-Professional-2196F3?style=for-the-badge)
+![Tamil](https://img.shields.io/badge/Tamil-Native-4CAF50?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Professional-FF9800?style=for-the-badge)
 
 </div>
+
+---
+
 <div align="center">
-python
-# My development philosophy
-class WasimAkramR:
-    def __init__(self):
-        self.role = "Junior Full Stack Developer"
-        self.passion = ["Web Development", "Healthcare Tech", "Cyber Security"]
-        self.philosophy = "Write clean code, build meaningful products"
-    
-    def daily_routine(self):
-        while True:
-            self.learn_something_new()
-            self.build_something_awesome()
-            self.help_other_developers()
-            self.coffee()
-    
-    def coffee(self):
-        return "☕ Essential for debugging"
-        
-me = WasimAkramR()
-print(me.philosophy)
-</div> ```
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
