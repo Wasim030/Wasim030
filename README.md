@@ -1,185 +1,127 @@
-<h1 align="center">Hi 👋, I'm Wasim Akram R</h1>
-<h3 align="center">Junior Full Stack Developer | Software Engineer | Chennai, India</h3>
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi there, I'm Wasim Akram R
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+React+%2B+Node.js;Healthcare+%26+AI+Driven+App+Builder;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+### *Junior Full Stack Developer | Software Engineer | Healthcare Tech Enthusiast*
 
-<p align="center">
-  <a href="mailto:wasimmsd030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Wasim030"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/wasim-akram"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9AF4&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps;MERN+%7C+Kotlin+%7C+TypeScript;Healthcare+%2B+AI+Enthusiast;3D+Animations+%26+Creative+Code" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-```yaml
-name: Wasim Akram R
-location: Chennai, India
-role: Junior Full Stack Developer | Software Engineer
-experience: Full Stack Intern @ Ayur.Ai Private Limited (Jan 2026 – Present)
-education: B.E. Computer Science — Priyadarshini Engineering College (CGPA: 8.0/10)
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   🔭 Currently: Full Stack Developer Intern @ Ayur.Ai       ║
+║   🌱 Learning: Advanced System Design & Cloud Architecture  ║
+║   💬 Expertise: MERN Stack, JWT Auth, REST APIs, BLE        ║
+║   📫 Contact: wasimmsd030@gmail.com | +91 9597925803        ║
+║   ⚡ Fun Fact: I build kiosks that talk to smart rings!     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Arsenal
+<div align="center">
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,html,css,redux" />
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,kotlin" />
+🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,aws,vercel,netlify" />
+🔧 Tools & AI
+<img src="https://skillicons.dev/icons?i=git,postman,vscode,androidstudio,figma" />
+🤖 AI-Powered Development
+https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white
+https://img.shields.io/badge/Claude_AI-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white
 
-focus_areas:
-  - Full Stack Web Development (React + Node + MongoDB)
-  - Healthcare & AI-Driven Applications
-  - Android Development (Kotlin + Jetpack Compose)
-  - REST API Design & JWT Authentication
-  - QA Automation Testing (Selenium + TestNG)
+</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Analytics
+<div align="center">
+📊 Stats	🏆 Streak	📈 Top Languages
+https://github-readme-stats.vercel.app/api?username=Wasim030&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AF4&icon_color=2E9AF4	https://github-readme-streak-stats.herokuapp.com/?user=Wasim030&theme=radical&hide_border=true&background=0D1117&stroke=2E9AF4&ring=2E9AF4&fire=2E9AF4&currStreakNum=FFFFFF	https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim030&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2E9AF4
+</div><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Wasim030&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" /> </div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="30" height="30" /> Featured Projects
+<div align="center">
+🩺 MediConnect	🛍️ ShopFlow	📱 AiWell Kiosk
+AI Doctor Appointment Portal	Full Stack E-Commerce	Smart Healthcare Kiosk
+React Node.js MongoDB	React Redux Cloudinary	Kotlin Jetpack Compose BLE
+JWT Auth + Stripe + RBAC	18+ REST APIs + Admin Dashboard	Smart Rings + BCA Machine Sync
+🔗 View Repo	🔗 View Repo	🔗 View Repo
+</div><div align="center">
+🔐 Cyber Security	🎨 3D Portfolio	🏥 Medicare
+Keyloggers & Security Tools	Immersive 3D Animations	Healthcare Management
+Python	TypeScript Three.js	JavaScript
+Ethical Hacking Research	Interactive Portfolio	Patient Management
+🔗 View Repo	🔗 View Repo	🔗 View Repo
+</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Office%20Worker.png" alt="Office" width="30" height="30" /> Work Experience
+🏢 Ayur.Ai Private Limited — Full Stack Developer Intern
+*Jan 2026 - Present | Chennai, India*
 
-currently_working_on:
-  - AI Well Smart Healthcare Kiosk (Kotlin + MVVM + BLE)
-  - Doctor Dashboard Full Stack App
-  - Backend API optimization & deployment
+🚀 Building end-to-end healthcare web apps with AI-driven wellness solutions
 
-fun_fact: "I build apps that combine AI, healthcare, and modern web tech 💡"
-```
+📱 Developing smart healthcare kiosk apps using Kotlin, Jetpack Compose, MVVM
 
----
+🔗 Integrating BCA machines, smart rings, and watches via BLE for real-time health data
 
-## 🛠️ Tech Stack
+🎨 Creating responsive frontends and RESTful APIs for patient management
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+📚 QSpiders — Full Stack & Software Testing Course
+*Mar 2025 - Dec 2025 | Chennai, India*
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+✅ Manual & Automation Testing, Core Java, SQL, Selenium WebDriver
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+📝 Designed 100+ test cases for e-commerce applications
 
-### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+🤖 Automated login, search, and checkout flows using Page Object Model (POM)
 
-### 🚀 Deployment & Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Diploma.png" alt="Diploma" width="30" height="30" /> Certifications
+<div align="center">
+Certification	Issuer
+React - The Complete Guide	Simplilearn
+Node.js Developer Course	Eduprep
+MongoDB Basics	Simplilearn
+Java Programming	Prodigy Infotech
+Full Stack Web Development	Eduprep
+Advanced QA Automation Testing	QSpiders
+</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="30" height="30" /> Let's Connect
+<div align="center">
+https://img.shields.io/badge/wasimmsd030@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
 
-### 🤖 AI Tools I Use Daily
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Chat%20Bubble.png" alt="Chat" width="30" height="30" /> Quote of the Day
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Wasim030&label=Profile%20Views&color=2E9AF4&style=for-the-badge" alt="Profile Views" />
+⭐ "Building scalable digital products, one commit at a time." ⭐
+— Wasim Akram R
 
----
-
-## 💼 Work Experience
-
-### 🏥 Ayur.Ai Private Limited — Full Stack Developer Intern
-**Jan 2026 – Present | Chennai, India**
-
-- 🔧 Built **AI Well Smart Healthcare Kiosk** app using Kotlin, Jetpack Compose & MVVM
-- 🩺 Developed **Doctor Dashboard** (full-stack: frontend + backend) with responsive UI
-- 🔗 Integrated **BLE** for BCA machines, smart rings, and watches for real-time health data
-- 🛠️ Designed RESTful APIs for patient management, wellness tracking & appointment workflows
-- ✅ Conducted manual & automation testing for AI Well App ensuring quality & reliability
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 MediConnect — AI-Powered Doctor Appointment Portal
-> React.js · Node.js · Express.js · MongoDB · JWT · Stripe · Tailwind CSS
-
-- Full-stack healthcare platform with appointment booking & role-based dashboards (Patient / Doctor / Admin)
-- Stripe payment gateway integration with webhook-based confirmation
-- JWT + bcrypt authentication with protected routes & RBAC
-- Deployed on **Vercel** (frontend) + **Render** (backend)
-
----
-
-### 🛍️ ShopFlow — Full Stack E-Commerce Platform
-> React.js · Redux Toolkit · Node.js · Express · MongoDB · Cloudinary · JWT
-
-- End-to-end e-commerce with dynamic catalog, cart, order tracking & admin dashboard
-- **18+ REST API endpoints** covering products, auth, orders & inventory
-- Cloudinary integration for multi-image uploads
-- Custom Express.js middleware for RBAC (admin & customer)
-
----
-
-### 📱 AiWell Kiosk — Smart Healthcare Kiosk
-> Kotlin · Jetpack Compose · Node.js · MongoDB · REST APIs · BLE
-
-- Smart healthcare kiosk for patient wellness tracking & digital healthcare services
-- MVVM architecture with reusable Jetpack Compose UI components
-- BLE integration for BCA machines, smart rings & wearables
-- Real-time health data synchronization with secure backend
-
----
-
-### 🔐 Cyber Security Tools
-> Python
-
-- Keyloggers & security utilities for ethical hacking & learning
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wasim030&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wasim030&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wasim030&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
-</p>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.E. Computer Science | Priyadarshini Engineering College | 2021–2025 | CGPA: 8.0/10 |
-| MPC + Computer Science | Islamiah Boys Higher Secondary School | 2019–2021 | Top scores |
-
----
-
-## 📜 Certifications
-
-- ⚛️ **React — The Complete Guide** (Hooks, Router, Redux) — Simplilearn
-- 🟢 **Node.js Developer Course** — Eduprep
-- 🍃 **MongoDB Basics** — Simplilearn
-- ☕ **Java Programming** — Prodigy Infotech
-- 🌐 **Full Stack Web Development** — Eduprep
-- 🧪 **Advanced QA Automation Testing** — QSpiders
-
----
-
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Native-green?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Professional-orange?style=flat-square)
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wasim030.Wasim030" alt="visitors"/>
-</p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
+</div>
+<div align="center">
+python
+# My development philosophy
+class WasimAkramR:
+    def __init__(self):
+        self.role = "Junior Full Stack Developer"
+        self.passion = ["Web Development", "Healthcare Tech", "Cyber Security"]
+        self.philosophy = "Write clean code, build meaningful products"
+    
+    def daily_routine(self):
+        while True:
+            self.learn_something_new()
+            self.build_something_awesome()
+            self.help_other_developers()
+            self.coffee()
+    
+    def coffee(self):
+        return "☕ Essential for debugging"
+        
+me = WasimAkramR()
+print(me.philosophy)
+</div> ```
