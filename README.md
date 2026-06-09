@@ -233,43 +233,7 @@ const wasim = {
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-</div>
 
-> 💡 **Enable the snake:** Add the file `.github/workflows/snake.yml` to your `Wasim030` repo with the content below, then go to **Settings → Actions → General → Allow all actions** and run the workflow once manually.
-
-<details>
-<summary>📄 Click to copy snake.yml workflow</summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
 
 ## 💼 Experience Timeline
 
