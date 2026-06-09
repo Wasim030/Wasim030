@@ -217,53 +217,18 @@ gantt
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation (Dark Theme)
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
-<details>
-<summary>⚙️ Click to enable the snake animation — snake.yml</summary>
+<br/>
 
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-> Save this as `.github/workflows/snake.yml` in your `Wasim030` repo, then go to **Actions → Generate Snake Animation → Run workflow**.
-
-</details>
-
----
 
 ## 💼 Experience Timeline
 
