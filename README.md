@@ -20,6 +20,10 @@
 </div>
 
 ---
+
+<!-- About section -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
 ### 🧑‍💻 About Me
 
 ```typescript
@@ -53,6 +57,24 @@ const wasim = {
 ```
 
 <br clear="right"/>
+
+---
+
+### 📅 Work Availability Timeline
+
+```mermaid
+gantt
+    title Work Availability — Wasim Akram R
+    dateFormat YYYY-MM-DD
+    section Current Role
+    Full Stack Intern @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
+    section Open For
+    Freelance / Contract Projects       :active, freelance, 2026-01-01, 2027-12-31
+    section Upcoming
+    Open for Full-Time Roles            :fulltime, 2026-07-01, 2027-12-31
+    section Target
+    Senior Developer Role               :milestone, 2027-01-01, 0d
+```
 
 ---
 
@@ -192,24 +214,6 @@ const wasim = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasim030&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
-
----
-
-### 📅 Work Availability Timeline
-
-```mermaid
-gantt
-    title Work Availability — Wasim Akram R
-    dateFormat YYYY-MM-DD
-    section Current Role
-    Full Stack Intern @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
-    section Open For
-    Freelance / Contract Projects       :active, freelance, 2026-01-01, 2027-12-31
-    section Upcoming
-    Open for Full-Time Roles            :fulltime, 2026-07-01, 2027-12-31
-    section Target
-    Senior Developer Role               :milestone, 2027-01-01, 0d
-```
 
 ---
 
