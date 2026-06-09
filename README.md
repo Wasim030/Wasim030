@@ -205,7 +205,7 @@ gantt
     title Work Availability — Wasim Akram R
     dateFormat YYYY-MM-DD
     section Current Role
-    Full Stack Intern @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
+    Full Stack @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
     section Open For
     Freelance / Contract Projects       :active, freelance, 2026-01-01, 2027-12-31
     section Upcoming
