@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Wasim%20Akram%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Wasim+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+AI-Driven+Healthcare+Apps+%F0%9F%8F%A5;Kotlin+%7C+Jetpack+Compose+%7C+MVVM+%F0%9F%93%B1;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Wasim+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+AI-Driven+Healthcare+Apps+%F0%9F%8F%A5;Kotlin+%7C+Jetpack+Compose+%7C+MVVM+%F0%9F%93%B1;Open+to+Work+%F0%9F%9F%A2+%7C+Chennai%2C+India" alt="Typing SVG"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimmsd030@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-akram)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasim030)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Wasim030)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Wasim030/3D-portfolio-with-animation)
 
 <br/>
 
@@ -23,7 +23,29 @@
 
 ---
 
-<!-- About section with sidebar layout -->
+## 🟢 Availability Status
+
+<div align="center">
+
+> ### ✅ Open to Work — Actively Looking for Opportunities!
+>
+> | | |
+> |---|---|
+> | 💼 **Role** | Full Stack Developer / Software Engineer |
+> | 📍 **Location** | Chennai, India (On-site / Remote / Hybrid) |
+> | 🕐 **Notice Period** | Immediately Available |
+> | 💰 **Type** | Full-time / Contract / Freelance |
+> | 📧 **Contact** | wasimmsd030@gmail.com |
+> | 📞 **Phone** | +91 9597925803 |
+
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-00C853?style=for-the-badge)](mailto:wasimmsd030@gmail.com)
+[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge)](https://github.com/Wasim030)
+
+</div>
+
+---
+
+<!-- About section -->
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🧑‍💻 About Me
@@ -53,6 +75,7 @@ const wasim = {
     "Claude AI", "Gemini AI", "Cursor AI"
   ],
 
+  openToWork: true,
   funFact: "I build apps where AI meets Healthcare 🏥🤖"
 };
 ```
@@ -200,6 +223,54 @@ const wasim = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> 💡 **Enable the snake:** Add the file `.github/workflows/snake.yml` to your `Wasim030` repo with the content below, then go to **Settings → Actions → General → Allow all actions** and run the workflow once manually.
+
+<details>
+<summary>📄 Click to copy snake.yml workflow</summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
 ## 💼 Experience Timeline
 
 ```
@@ -246,13 +317,55 @@ Mar 2025 ───────────────────────�
 
 ---
 
-## 🐍 Contribution Snake
+## 📬 Contact Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
 
-> **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your repo — ask Claude to generate it for you! ↗
+### Let's build something amazing together! 🚀
+
+<table>
+<tr>
+<td align="center" width="200">
+  <a href="mailto:wasimmsd030@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <br/><sub><b>wasimmsd030@gmail.com</b></sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://linkedin.com/in/wasim-akram">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <br/><sub><b>linkedin.com/in/wasim-akram</b></sub>
+  </a>
+</td>
+<td align="center" width="200">
+  <a href="https://github.com/Wasim030">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <br/><sub><b>github.com/Wasim030</b></sub>
+  </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <br/><sub><b>+91 9597925803</b></sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Location-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <br/><sub><b>Chennai, India</b></sub>
+</td>
+<td align="center" width="200">
+  <img src="https://img.shields.io/badge/Status-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
+  <br/><sub><b>Open to Work ✅</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💬 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -270,10 +383,7 @@ Mar 2025 ───────────────────────�
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
+*"First, solve the problem. Then, write the code." — John Johnson*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
