@@ -251,9 +251,9 @@ gantt
   </a>
 </td>
 <td align="center" width="200">
-  <a href="https://linkedin.com/in/wasim-akram">
+  <a href="https://linkedin.com/in/wasim030">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <br/><sub><b>linkedin.com/in/wasim-akram</b></sub>
+    <br/><sub><b>linkedin.com/in/wasim030</b></sub>
   </a>
 </td>
 <td align="center" width="200">
