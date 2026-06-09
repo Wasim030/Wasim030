@@ -225,28 +225,7 @@ gantt
 </div>
 
 
-
-## 💼 Experience Timeline
-
-```
-Jan 2026 ──────────────────────────────── Present
-    │
-    ├── 🏥  Ayur.Ai Private Limited  (Full Stack Developer Intern)
-    │       • Built AI Well Smart Healthcare Kiosk (Kotlin + MVVM + BLE)
-    │       • Developed Doctor Dashboard (Full Stack)
-    │       • Integrated BCA machines, smart rings via BLE
-    │       • Manual & automation testing for AI Well App
-    │
-Mar 2025 ─────────────────────────── Dec 2025
-    │
-    └── 🎓  QSpiders  (Full Stack & Software Testing)
-            • Core Java, Selenium WebDriver, TestNG
-            • 100+ test cases for e-commerce modules
-            • Page Object Model (POM) automation
-```
-
----
-
+<div align="center"><!-- Modern Timeline Design --><table> <tr> <td width="120" valign="top" align="center"> <img src="https://img.shields.io/badge/Jan_2026-Present-00C853?style=for-the-badge&logo=clock&logoColor=white"/> </td> <td valign="top"> <table width="100%"> <tr> <td width="60" align="center" valign="middle"> <img src="https://img.shields.io/badge/🏥-Ayur.Ai-0A5C4A?style=flat-square&logo=health&logoColor=white" width="120"/> </td> <td valign="top"> <b>Full Stack Developer Intern</b><br/> <i>Building AI-powered healthcare solutions</i> </td> </tr> <tr> <td colspan="2"> <details open> <summary><b>📌 Key Achievements</b></summary> <ul> <li>✅ Built AI Well Smart Healthcare Kiosk using <code>Kotlin</code> + <code>Jetpack Compose</code> + <code>MVVM</code></li> <li>✅ Developed full-stack Doctor Dashboard with responsive UI & RESTful APIs</li> <li>✅ Integrated BCA machines, smart rings & watches via <code>BLE</code> for real-time health data</li> <li>✅ Executed manual & automation testing ensuring 99.9% application reliability</li> </ul> </details> </td> </tr> </table> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://img.shields.io/badge/⬇-⬇-2C3E50?style=flat-square"/> </td> </tr> <tr> <td width="120" valign="top" align="center"> <img src="https://img.shields.io/badge/Mar_2025-Dec_2025-FF9800?style=for-the-badge&logo=graduation-cap&logoColor=white"/> </td> <td valign="top"> <table width="100%"> <tr> <td width="60" align="center" valign="middle"> <img src="https://img.shields.io/badge/🎓-QSpiders-6C5CE7?style=flat-square&logo=coursera&logoColor=white" width="100"/> </td> <td valign="top"> <b>Full Stack & Software Testing Certification</b><br/> <i>Comprehensive training in development & QA</i> </td> </tr> <tr> <td colspan="2"> <details open> <summary><b>📌 Key Achievements</b></summary> <ul> <li>✅ Automated 100+ test cases for e-commerce modules using <code>Selenium WebDriver</code></li> <li>✅ Implemented <code>Page Object Model (POM)</code> for reusable test scripts</li> <li>✅ Mastered Core Java, SQL, TestNG & JIRA bug tracking</li> <li>✅ Designed comprehensive test suites for functional & regression testing</li> </ul> </details> </td> </tr> </table> </td> </tr> </table></div>
 ## 🏆 GitHub Trophies
 
 <div align="center">
