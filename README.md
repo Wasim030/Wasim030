@@ -3,12 +3,10 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Wasim%20Akram%20R&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50"/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Wasim+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+AI-Driven+Healthcare+Apps+%F0%9F%8F%A5;Kotlin+%7C+Jetpack+Compose+%7C+MVVM+%F0%9F%93%B1;Open+to+Work+%F0%9F%9F%A2+%7C+Chennai%2C+India" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Wasim+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%2B+Node.js;Building+AI-Driven+Healthcare+Apps+%F0%9F%8F%A5;Kotlin+%7C+Jetpack+Compose+%7C+MVVM+%F0%9F%93%B1;Open+to+Work+%F0%9F%9F%A2+%7C+Chennai%2C+India" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Social badges -->
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasimmsd030@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasim-akram)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wasim030)
@@ -42,6 +40,22 @@
 [![Download Resume](https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge)](https://github.com/Wasim030)
 
 </div>
+
+### 📅 Work Availability Timeline
+
+```mermaid
+gantt
+    title Work Availability — Wasim Akram R
+    dateFormat YYYY-MM-DD
+    section Current Role
+    Full Stack Intern @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
+    section Open For
+    Freelance / Contract Projects       :active, freelance, 2026-01-01, 2027-12-31
+    section Upcoming
+    Open for Full-Time Roles            :fulltime, 2026-07-01, 2027-12-31
+    section Target
+    Senior Developer Role               :milestone, 2027-01-01, 0d
+```
 
 ---
 
@@ -233,7 +247,43 @@ const wasim = {
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Wasim030/Wasim030/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+</div>
 
+<details>
+<summary>⚙️ Click to enable the snake animation — snake.yml</summary>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Save this as `.github/workflows/snake.yml` in your `Wasim030` repo, then go to **Actions → Generate Snake Animation → Run workflow**.
+
+</details>
+
+---
 
 ## 💼 Experience Timeline
 
