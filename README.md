@@ -20,48 +20,6 @@
 </div>
 
 ---
-
-## 🟢 Availability Status
-
-<div align="center">
-
-> ### ✅ Open to Work — Actively Looking for Opportunities!
->
-> | | |
-> |---|---|
-> | 💼 **Role** | Full Stack Developer / Software Engineer |
-> | 📍 **Location** | Chennai, India (On-site / Remote / Hybrid) |
-> | 🕐 **Notice Period** | Immediately Available |
-> | 💰 **Type** | Full-time / Contract / Freelance |
-> | 📧 **Contact** | wasimmsd030@gmail.com |
-> | 📞 **Phone** | +91 9597925803 |
-
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-00C853?style=for-the-badge)](mailto:wasimmsd030@gmail.com)
-[![Download Resume](https://img.shields.io/badge/📄_Download_Resume-0A66C2?style=for-the-badge)](https://github.com/Wasim030)
-
-</div>
-
-### 📅 Work Availability Timeline
-
-```mermaid
-gantt
-    title Work Availability — Wasim Akram R
-    dateFormat YYYY-MM-DD
-    section Current Role
-    Full Stack Intern @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
-    section Open For
-    Freelance / Contract Projects       :active, freelance, 2026-01-01, 2027-12-31
-    section Upcoming
-    Open for Full-Time Roles            :fulltime, 2026-07-01, 2027-12-31
-    section Target
-    Senior Developer Role               :milestone, 2027-01-01, 0d
-```
-
----
-
-<!-- About section -->
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ### 🧑‍💻 About Me
 
 ```typescript
@@ -234,6 +192,24 @@ const wasim = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wasim030&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
+
+---
+
+### 📅 Work Availability Timeline
+
+```mermaid
+gantt
+    title Work Availability — Wasim Akram R
+    dateFormat YYYY-MM-DD
+    section Current Role
+    Full Stack Intern @ Ayur.Ai         :active, intern, 2026-01-01, 2026-12-31
+    section Open For
+    Freelance / Contract Projects       :active, freelance, 2026-01-01, 2027-12-31
+    section Upcoming
+    Open for Full-Time Roles            :fulltime, 2026-07-01, 2027-12-31
+    section Target
+    Senior Developer Role               :milestone, 2027-01-01, 0d
+```
 
 ---
 
